@@ -1,0 +1,18 @@
+{
+    "name": "unped/larapacks",
+    "description": "list packages",
+    "type": "metapackage",
+    "autoload": {
+        "psr-4": {
+            "Unped\\Larapacks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pedro Teixeira",
+            "email": "75336401+PedroTeixeira-unP@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
